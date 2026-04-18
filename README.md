@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.pinimg.com/736x/dd/b2/2f/ddb22fbd52ea8987a64adfac63cce265.jpg"  />
+<img align="right" height="255" src="https://i.pinimg.com/736x/6f/d2/13/6fd21302cd8a89dc54025e3632df9aef.jpg"  />
 
 ###
 
@@ -24,11 +24,9 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAAbreu-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVictorAAbreu-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAAbreu-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoVictorAAbreu-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -59,6 +57,17 @@
 
 ###
 
+<h3 align="left">My social networks</h3>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/output/snake.svg" alt="Snake animation" />
@@ -66,11 +75,16 @@
 ###
 
 <div align="center">
-  <img height="205" src="https://i.pinimg.com/1200x/1f/2c/b1/1f2cb19d5db2b0c6057e503c4265c57a.jpg"  />
+  <img height="200" src="https://i.pinimg.com/1200x/1f/2c/b1/1f2cb19d5db2b0c6057e503c4265c57a.jpg"  />
 </div>
 
 ###
 
 <h3 align="left">Appreciate y’all pullin’ up fr. Stay sharp, keep grindin’, and keep buildin</h3>
+
+###
+
+<div align="center">
+</div>
 
 ###
