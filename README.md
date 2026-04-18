@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="255" src="https://i.pinimg.com/736x/6f/d2/13/6fd21302cd8a89dc54025e3632df9aef.jpg"  />
+<img align="right" height="200" src="https://i.pinimg.com/736x/6f/d2/13/6fd21302cd8a89dc54025e3632df9aef.jpg"  />
 
 ###
 
@@ -53,17 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-</div>
-
-###
-
-<h3 align="left">My social networks</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
