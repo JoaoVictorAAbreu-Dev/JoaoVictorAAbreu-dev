@@ -112,19 +112,19 @@
   <span style="color:#7C3AED;">Connect With Me</span>
 </h3>
 
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/SEU-LINKEDIN">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:SEUEMAIL@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/SEU-INSTAGRAM">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram" />
   </a>
-</div>
+</p>
 
 ---
 
