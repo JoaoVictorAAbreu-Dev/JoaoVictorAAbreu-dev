@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/1200x/f1/f7/b4/f1f7b46e8b89f0c94827dcb6bc36375d.jpg" />
+  <img height="500" src="https://i.pinimg.com/736x/f6/97/a8/f697a839e42edcb9a473809878b54420.jpg" />
 </div>
 
 ---
@@ -108,28 +108,8 @@
 
 ---
 
-<h3 align="left">
-  <span style="color:#7C3AED;">Connect With Me</span>
-</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/SEU-INSTAGRAM">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram" />
-  </a>
-</p>
-
----
-
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/1200x/fa/9d/47/fa9d472779163993325f4166cbd30300.jpg" />
+  <img height="400" src="https://i.pinimg.com/1200x/4b/c7/f3/4bc7f3a5260935e51a3a9fca3a4ebb7f.jpg" />
 </div>
 
 ---
