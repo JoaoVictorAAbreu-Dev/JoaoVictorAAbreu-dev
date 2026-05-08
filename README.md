@@ -24,7 +24,7 @@
   <span style="color:#7C3AED;">About Me</span>
 </h3>
 
-<img align="right" height="250" src="https://i.pinimg.com/736x/de/58/d6/de58d6793b3b38978b146d0715b0f5b1.jpg" />
+<img align="right" height="250" src="https://i.pinimg.com/736x/20/cf/84/20cf848a7911e80e59ea7bcb1aa2ad2a.jpg" />
 
 <p align="left">
   <span style="color:#8B949E;">
