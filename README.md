@@ -27,7 +27,7 @@
   About Me
 </h3>
 
-<img align="right" height="250" src="https://i.pinimg.com/736x/20/cf/84/20cf848a7911e80e59ea7bcb1aa2ad2a.jpg" />
+<img align="right" height="200" src="https://i.pinimg.com/1200x/ff/4a/36/ff4a3649bd1a17f481ae6de1238bd18a.jpg" />
 
 <p align="left">
   I’m a Computer Science student focused on backend engineering, scalable architectures, and software development with real-world impact.
