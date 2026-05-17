@@ -100,14 +100,13 @@ Python • Pandas
 </h3>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAAbreu-Dev&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorAAbreu-Dev&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="170" />
-
-<img src="https://streak-stats.demolab.com?user=JoaoVictorAAbreu-Dev&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" height="170" />
-
+  <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/stats-output/stats.svg" height="150" alt="stats graph"  />
+  
+  <img src="https://raw.githubusercontent.com/JoaoVictorAAbreu-Dev/JoaoVictorAAbreu-Dev/languages-output/languages.svg" height="150" alt="languages graph"  />
+  
+  <img src="https://streak-stats.demolab.com?user=JoaoVictorAAbreu-Dev&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
 
 ---
 
